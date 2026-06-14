@@ -1,15 +1,16 @@
 # Billing and Account Settings
 
-Use Settings to manage your sign-in email, password, plan, usage, credits, and optional quality data preferences.
+Use Settings to manage your sign-in email, password, account protection, plan, usage, credits, and optional quality data preferences.
 
 ## Jump to
 
-* [Open Settings](billing-and-account-settings.md#open-settings)
-* [Manage account details](billing-and-account-settings.md#manage-account-details)
-* [Check plan and usage](billing-and-account-settings.md#check-plan-and-usage)
-* [Understand new account trials](billing-and-account-settings.md#understand-new-account-trials)
-* [Change plans or manage billing](billing-and-account-settings.md#change-plans-or-manage-billing)
-* [Manage quality data preferences](billing-and-account-settings.md#manage-quality-data-preferences)
+* [Open Settings](#open-settings)
+* [Manage account details](#manage-account-details)
+* [Manage account protection](#manage-account-protection)
+* [Check plan and usage](#check-plan-and-usage)
+* [Understand new account trials](#understand-new-account-trials)
+* [Change plans or manage billing](#change-plans-or-manage-billing)
+* [Manage quality data preferences](#manage-quality-data-preferences)
 
 ## Open Settings
 
@@ -31,6 +32,17 @@ In Account, you can:
 * Change your password with **Change password**.
 
 If Aubrey needs email verification after an account change, it will send you to the email verification screen.
+
+## Manage account protection
+
+Open **Account** and choose **Manage account protection**.
+
+From there, you can:
+
+* Add **device unlock** with Face ID, Touch ID, or your device PIN.
+* Set up an **authenticator app** if device unlock is not available on your device or if you prefer it.
+
+Device unlock is the recommended option when it is available. If Aubrey asks you to sign out before using it, sign out and then use **Use device unlock** from the login page.
 
 ## Check plan and usage
 
