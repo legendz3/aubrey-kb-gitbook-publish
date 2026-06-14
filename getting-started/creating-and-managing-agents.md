@@ -4,11 +4,12 @@ Agents are the personal Aubrey workspaces you create for different needs.
 
 ## Jump to
 
-* [Create another agent](creating-and-managing-agents.md#create-another-agent)
-* [Open or switch agents](creating-and-managing-agents.md#open-or-switch-agents)
-* [Review agent instructions](creating-and-managing-agents.md#review-agent-instructions)
-* [Use the workspace tabs](creating-and-managing-agents.md#use-the-workspace-tabs)
-* [Get help from the workspace](creating-and-managing-agents.md#get-help-from-the-workspace)
+* [Create another agent](#create-another-agent)
+* [Open or switch agents](#open-or-switch-agents)
+* [Archive or restore agents](#archive-or-restore-agents)
+* [Review agent instructions](#review-agent-instructions)
+* [Use the workspace tabs](#use-the-workspace-tabs)
+* [Get help from the workspace](#get-help-from-the-workspace)
 
 ## Create another agent
 
@@ -35,6 +36,31 @@ If you have existing agents, the Agents page shows them as cards. Select a card 
 Inside an agent workspace, use **Switch agent** to move between agents. Use the global **Agents** navigation item to return to the full list.
 
 If you have no agents yet, Aubrey sends you to onboarding so you can create the first one.
+
+## Archive or restore agents
+
+Archive an agent when you want to free up an active slot without losing the workspace right away.
+
+To archive an agent:
+
+1. Open that agent.
+2. Choose **Archive agent** in the top-right actions.
+3. Confirm the archive step.
+
+When you archive an agent, Aubrey:
+
+* Frees that active agent slot right away.
+* Stops active runs and connected channels for that agent.
+* Moves the workspace into the **Archived** section on the **Agents** page.
+* Schedules permanent deletion 30 days later unless you restore it first.
+
+To restore an archived agent:
+
+1. Open **Agents**.
+2. Find the **Archived** section.
+3. Choose **Restore agent** on the agent card.
+
+Archived cards can also show the date when that agent will be deleted permanently.
 
 ## Review agent instructions
 
@@ -72,3 +98,7 @@ Documentation and Help Center open as published GitBook pages. Support opens an 
 ### Can I rename or edit an agent here?
 
 This guide only covers controls shown in the current workspace. If you do not see an edit control for a specific field, use chat to tell Aubrey what you want changed or create a new agent with updated setup details.
+
+### What happens if I do nothing after archiving an agent?
+
+Archived agents are deleted permanently 30 days after they are archived unless you restore them first.
